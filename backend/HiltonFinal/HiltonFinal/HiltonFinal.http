@@ -1,0 +1,6 @@
+@HiltonFinal_HostAddress = http://localhost:5131
+
+GET {{HiltonFinal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

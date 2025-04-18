@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/9d80fabc-fe00-435b-a7b7-eb20006d4a8f/resourceGroups/appsvc_windows_eastus/providers/Microsoft.Web/sites/hiltonFinalBackend",
+  "appService.deploySubpath": "backend\\HiltonFinal\\HiltonFinal\\publish"
+}
